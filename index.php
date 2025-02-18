@@ -134,4 +134,5 @@ $stmt = $pdo->query($selectProduct);
         }
         ?>
     </tbody>
+
 </table>
